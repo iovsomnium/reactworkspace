@@ -1,5 +1,5 @@
 # movie App with react
 
-REACT JS Fundamentals course (2019 version)
+REACT JS Fundamentals course 
 
-first step of REACT
+with Nomad Coder
